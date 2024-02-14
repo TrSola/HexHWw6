@@ -8,7 +8,7 @@
   <br>
   <RouterLink to="/login">Login</RouterLink> |
   <br>
-  <RouterLink to="/admin">後台(後台製作完成記得刪掉)</RouterLink> |
+  <RouterLink to="/admin">後台(全部製作完成記得刪掉)</RouterLink> |
   </nav>
   <!-- RouterView來自 import router from './router' -->
   <RouterView/>
